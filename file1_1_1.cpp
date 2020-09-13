@@ -1,6 +1,6 @@
 #include <iostream>
 int main()
 {
-    std::cout << "hello cloud!" << std:endl;
+    std::cout << "hello rain!" << std:endl;
     return 0;
 }
